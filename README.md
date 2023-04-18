@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm indah
 
-<!--
-**Anggrainiiii/Anggrainiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- Nama             : Indah Makianggung
+- Alamat           : Kelurahan Anges
+- Tempat,tgl lahir : Anges,26 Agustus 2003
+- Jenis Kelamin    : Perempuan
+- Status           : Mahasiswa
+- Email            : Anggrainimakianggung@gmail.com
+- Nomor Hp         : 08227111xxxx
 
-Here are some ideas to get you started:
+## Enducation:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Politeknik Negeri Nusa Utara] | Sistem informasi | Anges '2021-Sekarang'
+
+### 2. [SMK N 2 Tahuna ] | Tahuna '2018-2021'
+
+
+<br />
+<br />
+
+
+
